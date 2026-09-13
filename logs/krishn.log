@@ -1,0 +1,46 @@
+=====================
+INSTALLING FOR TERMUX
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python is already the newest version (3.14.6-1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (8.5.1).
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+--------------------
+
+Requirement already satisfied: requests in /data/data/com.termux/files/usr/lib/python3.14/site-packages (2.34.2)
+Requirement already satisfied: charset_normalizer<4,>=2 in /data/data/com.termux/files/usr/lib/python3.14/site-packages (from requests) (3.5.1)
+Requirement already satisfied: idna<4,>=2.5 in /data/data/com.termux/files/usr/lib/python3.14/site-packages (from requests) (3.19)
+Requirement already satisfied: urllib3<3,>=1.26 in /data/data/com.termux/files/usr/lib/python3.14/site-packages (from requests) (2.7.0)
+Requirement already satisfied: certifi>=2023.5.7 in /data/data/com.termux/files/usr/lib/python3.14/site-packages (from requests) (2026.7.22)
+
+--------------------
+
+Requirement already satisfied: packaging in /data/data/com.termux/files/usr/lib/python3.14/site-packages (26.3)
+
+--------------------
+
+Requirement already satisfied: psutil in /data/data/com.termux/files/usr/lib/python3.14/site-packages (7.2.2)
+
+--------------------
+
+=========
+COMPLETED
+=========
+

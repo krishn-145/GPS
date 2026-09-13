@@ -1,0 +1,58 @@
+[Sun Sep 13 09:43:09 2026] PHP 8.5.1 Development Server (http://0.0.0.0:8080) started
+[Sun Sep 13 09:43:12 2026] 127.0.0.1:38166 Accepted
+[Sun Sep 13 09:43:12 2026] 127.0.0.1:38166 [200]: GET /index.html
+[Sun Sep 13 09:43:12 2026] 127.0.0.1:38166 Closing
+[Sun Sep 13 09:43:27 2026] 127.0.0.1:48790 Accepted
+[Sun Sep 13 09:43:27 2026] 127.0.0.1:48790 [200]: GET /
+[Sun Sep 13 09:43:27 2026] 127.0.0.1:48790 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48796 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48804 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48816 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48796 [200]: GET /css/s9hWiNS5894.css
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48804 [200]: GET /css/Epf3I8GM5jv.css
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48816 [200]: GET /js/location.js
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48804 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48816 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48796 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48826 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48828 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48826 [200]: GET /images/-r3j-x8ZnM7.svg
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48828 [200]: GET /images/onxx.png
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48826 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48828 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48842 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48842 [200]: POST /info_handler.php
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48842 Closing
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48850 Accepted
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48850 [200]: GET /images/rYZqPCBaG70.png
+[Sun Sep 13 09:43:28 2026] 127.0.0.1:48850 Closing
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39374 Accepted
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39376 Accepted
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39384 Accepted
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39398 Accepted
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39410 Accepted
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39374 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39374 Closing
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39376 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39376 Closing
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39384 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39384 Closing
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39398 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39398 Closing
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39410 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:55 2026] 127.0.0.1:39410 Closing
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39412 Accepted
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39412 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39412 Closing
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39414 Accepted
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39414 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:56 2026] 127.0.0.1:39414 Closing
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37050 Accepted
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37054 Accepted
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37060 Accepted
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37050 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37050 Closing
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37054 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37054 Closing
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37060 [200]: POST /result_handler.php
+[Sun Sep 13 09:43:59 2026] 127.0.0.1:37060 Closing
