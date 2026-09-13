@@ -3,7 +3,14 @@
 <img width="1536" height="1024" alt="159729" src="https://github.com/user-attachments/assets/4594f60d-88ee-4cc5-b331-e1b2b23537d0" />
 
 > BY : [KRISHN]
-
+ 🎀 FOLLOW ME
+<p align="center">
+  <a href="https://www.instagram.com/ur_.krishn._02">
+    <img src="https://img.shields.io/badge/♥%20FOLLOW%20ON%20INSTAGRAM-00C853?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow Instagram">
+  </a>
+</p><p align="center">
+  💗 <b>Follow for new updates, projects & releases</b>
+</p>---
 Concept behind GPS is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://krishn-145.github.io"> KRISHN's Blog </a>.GPS Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
