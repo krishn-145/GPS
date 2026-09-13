@@ -14,9 +14,9 @@
   💗 <b>Follow for new updates, projects & releases</b>
 </p>
 
-[![GITHUB](https://krishn-145.github.io/)
+<a href="https://krishn-145.github.io/GPS/">👉🏻 KRISHN</a>
 
-Concept behind GPS is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://krishn-145.github.io"> KRISHN's Blog </a>.GPS Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind GPS is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://krishn-145.github.io/GPS/"> KRISHN's Blog </a>.GPS Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
