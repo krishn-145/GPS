@@ -204,7 +204,7 @@ as an alternative to ngrok
 ## Demo
 
 **YouTube**
+<img width="1080" height="1131" alt="159736" src="https://github.com/user-attachments/assets/4010509b-3e66-4bb8-9381-757d58880145" />
 
-<a href="https://odysee.com/@krishn-145:2/GPS_v126_demo:e">
-  <img src="https://thumbnails.odycdn.com/optimize/s:1024:768/quality:85/plain/https://thumbs.odycdn.com/5ce9ed06e0ce8a995987dba0949dbc9a.webp">
-</a>
+
+BY : [KRISHN] 🎀
