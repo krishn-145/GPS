@@ -1,37 +1,8 @@
-<p align="center"><img src="https://ibb.co/vxP5PfrJ"></p>
+# GPS -
+---
+<img width="1536" height="1024" alt="159729" src="https://github.com/user-attachments/assets/4594f60d-88ee-4cc5-b331-e1b2b23537d0" />
 
-<p align="center">
-    <a href="https://krishn1.vercel.app">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://krishn-145.github.io/">
-      <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
-    </a>
-</p>
-
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="https://ibb.co/vxP5PfrJ">
-</p>
-
-<p>
-  <a style="margin-right: 10px;" href="https://github.com/krishn-145/GPS#installation">
-    <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-  <a style="margin-right: 10px;" href="https://github.com/krishn-145/GPS#usage">
-    <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-  <a href="https://github.com/krishn-145/GPS#demo">
-    <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
-  </a>
-</p>
+> BY : [KRISHN]
 
 Concept behind GPS is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://krishn-145.github.io"> KRISHN's Blog </a>.GPS Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
